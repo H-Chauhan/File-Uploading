@@ -1,8 +1,8 @@
 <?php 
-$servername = "xplikatus.database.windows.net";
-$username = "himanshu";
-$password = "iAm100%sexy";
-$dbname = "LR";
+$servername = "mysql5005.smarterasp.net";
+$username = "a12401_lr";
+$password = "hs4336243362";
+$dbname = "db_a12401_lr";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

@@ -38,10 +38,10 @@ if ($uploadOk == 0) {
 $file = fopen($target_file, 'r');
 $firstline = true;
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "lr";
+$servername = "mysql5005.smarterasp.net";
+$username = "a12401_lr";
+$password = "hs4336243362";
+$dbname = "db_a12401_lr";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

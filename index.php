@@ -1,8 +1,8 @@
 <?php 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "lr";
+$servername = "xplikatus.database.windows.net";
+$username = "himanshu";
+$password = "iAm100%sexy";
+$dbname = "LR";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
